@@ -42,3 +42,6 @@
 | **황규한** | PPT, 발표 |
 | **이수훈** | Front UI 개발 |
 | **남원식** | Front UI 개발 |
+
+## 발표자료
+https://drive.google.com/file/d/1RgWdWaJkqDf1fORCfDs7H4PxvizlyAEp/view?usp=drive_link
